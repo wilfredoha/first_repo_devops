@@ -77,3 +77,4 @@ Default web root:
 # OK
 # Thanks!!
 # See you soon!!
+# Regards
