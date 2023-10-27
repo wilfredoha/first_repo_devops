@@ -5,11 +5,6 @@
         $_SESSION['msg'] = "You must log in first";
         header('location: login.php');
     }
-
-    $localIP = getHostByName(getHostName()); 
-      
-    // Displaying the address  
-    // echo $localIP; 
 ?>
 
 
@@ -143,7 +138,6 @@
 
     </section>
 
-<h1><?php echo $localIP; ?></h1>
 
 </body>
 
